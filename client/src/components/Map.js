@@ -11,7 +11,7 @@ import {
 
 function Map ({ dropOffAddress, lat, lng, pickUpAddress, zoom }) {
     const [response, setResponse] = useState(null); // new
-  
+    console.log(dropOffAddress, pickUpAddress)
     // new
     const hasTwoAddresses = (
       pickUpAddress !== '' &&
@@ -36,12 +36,11 @@ function Map ({ dropOffAddress, lat, lng, pickUpAddress, zoom }) {
           }}
           mapContainerStyle={{
             width: '100%',
-            height: '300px',
+            height: '800px',
             marginBottom: '10px'
           }}
           zoom={zoom}
         >
-          {/* new */}
           {
             hasTwoAddresses && (
               <DirectionsService
