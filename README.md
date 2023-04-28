@@ -6,7 +6,6 @@
 [![size](https://img.shields.io/github/repo-size/realvaibhav/InstaRide?style=flat-square)](https://github.com/realvaibhav/InstaRide)
 [![Website status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/realvaibhav/InstaRide)
 
-
 Many apps rely on real-time, bi-directional communication to give users a great experience. One example is a ride-sharing app like Uber or Lyft, which is built on the messages that are sent between a rider and a driver. A rider selects a starting location and destination, and then the app broadcasts a trip request to all nearby drivers. An available driver accepts the trip and meets the rider at the pick-up address. In the meantime, every move the driver makes is sent to the rider almost instantaneously and the rider can track the trip status as long as it is active.
 
 ## Setup
@@ -38,6 +37,19 @@ docker-compose up
 | Docker Engine | v20.10 |
 | Docker Compose | v2.12 |
 | Tailwind | 2.0 |
+
+## Routes
+
+| Path            | Component        | Functionality                      |
+| --------------- | ----------------- | ------------------------------------ |
+| /               | Landing           | Renders the landing page.            |
+| /sign-up        | SignUp            | Renders the sign-up form.            |
+| /log-in         | LogIn             | Renders the log-in form.             |
+| /rider          | Rider             | Renders the rider dashboard.         |
+| /rider/request  | RiderRequest      | Renders the rider request form.      |
+| /rider/:id      | RiderDetail       | Renders details of a specific ride.  |
+| /driver         | Driver            | Renders the driver dashboard.        |
+| /driver/:id     | DriverDetail      | Renders details of a specific driver. |
 
 ## Endpoints
 

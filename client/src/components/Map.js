@@ -11,7 +11,7 @@ import {
 
 function Map ({ dropOffAddress, lat, lng, pickUpAddress, zoom }) {
     const [response, setResponse] = useState(null); // new
-    console.log(dropOffAddress, pickUpAddress)
+  
     // new
     const hasTwoAddresses = (
       pickUpAddress !== '' &&
@@ -21,6 +21,7 @@ function Map ({ dropOffAddress, lat, lng, pickUpAddress, zoom }) {
     // new
     const directionsCallback = (response) => {
       if (response !== null && response.status === 'OK') {
+        console.log(response)
         setResponse(response);
       }
     };
@@ -36,11 +37,12 @@ function Map ({ dropOffAddress, lat, lng, pickUpAddress, zoom }) {
           }}
           mapContainerStyle={{
             width: '100%',
-            height: '800px',
+            height: '400px',
             marginBottom: '10px'
           }}
           zoom={zoom}
         >
+          {/* new */}
           {
             hasTwoAddresses && (
               <DirectionsService
