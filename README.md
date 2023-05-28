@@ -79,16 +79,17 @@ Request a Ride
 Enter the location credentials
 ![Screenshot from 2023-05-11 23-11-35](https://github.com/realvaibhav/InstaRide/assets/56718659/3b5e0063-df70-497a-b6bd-6ff58b7d9eba)
 ![Screenshot from 2023-05-11 23-26-13](https://github.com/realvaibhav/InstaRide/assets/56718659/6b377dcf-8856-4050-9e67-32f0fb24a774)
-
 Driver received the request
-![Screenshot from 2023-05-11 23-27-04](https://github.com/realvaibhav/InstaRide/assets/56718659/d0a9adc7-e8d9-475d-90b2-a78260c02819)
+![Screenshot from 2023-05-11 23-27-04](https://github.com/realvaibhav/InstaRide/assets/56718659/8402638b-1dd8-4ba8-acb2-30f037c23054)
 Driver Dashboard
+![Screenshot from 2023-05-12 01-56-05](https://github.com/realvaibhav/InstaRide/assets/56718659/512768f7-a7db-408b-9e50-baf78d5ae103)
+
 ![Screenshot from 2023-05-12 01-57-07](https://github.com/realvaibhav/InstaRide/assets/56718659/923529d8-53ec-49b2-9fe8-88fffcd05faa)
 
 ![Screenshot from 2023-05-12 01-57-18](https://github.com/realvaibhav/InstaRide/assets/56718659/64ba920a-470a-48dd-88b3-f98d6e2ca2b2)
-
+Ride Completed
 ![Screenshot from 2023-05-12 01-57-32](https://github.com/realvaibhav/InstaRide/assets/56718659/acb87ca0-e7de-4aa4-b2d4-d7019819c3ab)
-
+Ride Added to recent trips
 ![Screenshot from 2023-05-12 01-58-03](https://github.com/realvaibhav/InstaRide/assets/56718659/a349026d-06c0-46a8-a36e-9285c58ba417)
 
 
