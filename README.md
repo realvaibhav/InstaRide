@@ -73,17 +73,11 @@ Sign Up form for Driver
 Log In for Driver
 ![Screenshot from 2023-05-11 23-09-51](https://github.com/realvaibhav/InstaRide/assets/56718659/5a81a8cd-530b-4ad9-b5dd-91eb08a04695)
 Rider Dashboard
-![Screenshot from 2023-05-11 23-10-41](https://github.com/realvaibhav/InstaRide/assets/56718659/d7d668e0-01d3-45f7-aa81-b7277b2b5c48)
+![Screenshot from 2023-05-11 23-05-46](https://github.com/realvaibhav/InstaRide/assets/56718659/54b08d40-6e46-4053-8d61-7e9acc13faaa)
 Request a Ride
-![Screenshot from 2023-05-11 23-11-35](https://github.com/realvaibhav/InstaRide/assets/56718659/3b5e0063-df70-497a-b6bd-6ff58b7d9eba)
+![Screenshot from 2023-05-11 23-10-41](https://github.com/realvaibhav/InstaRide/assets/56718659/d7d668e0-01d3-45f7-aa81-b7277b2b5c48)
 Enter the location credentials
-![Screenshot from 2023-05-11 23-26-13](https://github.com/realvaibhav/InstaRide/assets/56718659/02b431c5-3315-4120-b8f7-472e9ba6b50e)
-
-![Screenshot from 2023-05-11 23-27-04](https://github.com/realvaibhav/InstaRide/assets/56718659/bddabfd2-0380-43b9-8b4d-5bb6725a8f79)
-
-![Screenshot from 2023-05-12 01-56-05](https://github.com/realvaibhav/InstaRide/assets/56718659/926a23db-e717-4eee-a22e-7568eee0c36c)
-
-![Screenshot from 2023-05-12 01-56-48](https://github.com/realvaibhav/InstaRide/assets/56718659/09fa525c-f470-454a-908b-f568bcead415)
+![Screenshot from 2023-05-11 23-11-35](https://github.com/realvaibhav/InstaRide/assets/56718659/3b5e0063-df70-497a-b6bd-6ff58b7d9eba)
 
 ![Screenshot from 2023-05-12 01-57-07](https://github.com/realvaibhav/InstaRide/assets/56718659/923529d8-53ec-49b2-9fe8-88fffcd05faa)
 
