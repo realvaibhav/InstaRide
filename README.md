@@ -64,18 +64,32 @@ docker-compose up
 
 ##UI/ScreenShots
 
-![Screenshot from 2023-05-12 01-58-03](https://github.com/realvaibhav/InstaRide/assets/56718659/89c3bbea-33c6-4ff9-8499-92650577527c)
-![Screenshot from 2023-05-12 01-57-32](https://github.com/realvaibhav/InstaRide/assets/56718659/146b019c-1259-486e-8729-27a9ce309bd2)
-![Screenshot from 2023-05-12 01-57-18](https://github.com/realvaibhav/InstaRide/assets/56718659/8e005578-0c34-47f4-b518-97b1a878d1e6)
-![Screenshot from 2023-05-12 01-57-07](https://github.com/realvaibhav/InstaRide/assets/56718659/36b2f908-d11b-4cba-afb1-d2d56b747e42)
-![Screenshot from 2023-05-12 01-56-48](https://github.com/realvaibhav/InstaRide/assets/56718659/ff315f30-178d-4699-8cc2-3c0e7e8f7270)
-![Screenshot from 2023-05-12 01-56-05](https://github.com/realvaibhav/InstaRide/assets/56718659/2d9457bc-ea40-46d0-a285-325e6b83a68e)
-![Screenshot from 2023-05-11 23-27-04](https://github.com/realvaibhav/InstaRide/assets/56718659/fd7231f6-fc36-4d46-8aa6-89d8e93976b6)
-![Screenshot from 2023-05-11 23-26-13](https://github.com/realvaibhav/InstaRide/assets/56718659/9e308371-e994-44d6-a202-6593bc9a7ea3)
-![Screenshot from 2023-05-11 23-24-15](https://github.com/realvaibhav/InstaRide/assets/56718659/b9a9077d-1608-4d76-9dd7-ef65245090d5)
-![Screenshot from 2023-05-11 23-11-35](https://github.com/realvaibhav/InstaRide/assets/56718659/1d06d231-adc7-4d96-9f78-09875b70c7af)
-![Screenshot from 2023-05-11 23-10-41](https://github.com/realvaibhav/InstaRide/assets/56718659/95465452-b684-4d44-bdda-84f40309c900)
-![Screenshot from 2023-05-11 23-09-51](https://github.com/realvaibhav/InstaRide/assets/56718659/28af27f0-4ba3-47df-a22c-4524c8b9493f)
-![Screenshot from 2023-05-11 23-05-46](https://github.com/realvaibhav/InstaRide/assets/56718659/10a4c450-9003-4313-947c-3d4469f8e21e)
-![Screenshot from 2023-05-11 23-05-19](https://github.com/realvaibhav/InstaRide/assets/56718659/51455d39-f5e5-40b8-8b6f-4f7b4b09dd49)
-![Screenshot from 2023-05-11 23-03-59](https://github.com/realvaibhav/InstaRide/assets/56718659/55f16c6b-9e68-4a8a-88f8-d9eaa489e566)
+![Screenshot from 2023-05-11 23-03-59](https://github.com/realvaibhav/InstaRide/assets/56718659/35d3f3e9-fee9-4a46-b347-3bb8e66e22d8)
+
+![Screenshot from 2023-05-11 23-05-19](https://github.com/realvaibhav/InstaRide/assets/56718659/db2edf9a-3006-4504-b3fb-cd8d4e620260)
+
+![Screenshot from 2023-05-11 23-24-15](https://github.com/realvaibhav/InstaRide/assets/56718659/52aecf3a-62f1-4a43-8dcf-90df13050d68)
+
+![Screenshot from 2023-05-11 23-09-51](https://github.com/realvaibhav/InstaRide/assets/56718659/5a81a8cd-530b-4ad9-b5dd-91eb08a04695)
+
+![Screenshot from 2023-05-11 23-10-41](https://github.com/realvaibhav/InstaRide/assets/56718659/d7d668e0-01d3-45f7-aa81-b7277b2b5c48)
+
+![Screenshot from 2023-05-11 23-11-35](https://github.com/realvaibhav/InstaRide/assets/56718659/3b5e0063-df70-497a-b6bd-6ff58b7d9eba)
+
+![Screenshot from 2023-05-11 23-26-13](https://github.com/realvaibhav/InstaRide/assets/56718659/02b431c5-3315-4120-b8f7-472e9ba6b50e)
+
+![Screenshot from 2023-05-11 23-27-04](https://github.com/realvaibhav/InstaRide/assets/56718659/bddabfd2-0380-43b9-8b4d-5bb6725a8f79)
+
+![Screenshot from 2023-05-12 01-56-05](https://github.com/realvaibhav/InstaRide/assets/56718659/926a23db-e717-4eee-a22e-7568eee0c36c)
+
+![Screenshot from 2023-05-12 01-56-48](https://github.com/realvaibhav/InstaRide/assets/56718659/09fa525c-f470-454a-908b-f568bcead415)
+
+![Screenshot from 2023-05-12 01-57-07](https://github.com/realvaibhav/InstaRide/assets/56718659/923529d8-53ec-49b2-9fe8-88fffcd05faa)
+
+![Screenshot from 2023-05-12 01-57-18](https://github.com/realvaibhav/InstaRide/assets/56718659/64ba920a-470a-48dd-88b3-f98d6e2ca2b2)
+
+![Screenshot from 2023-05-12 01-57-32](https://github.com/realvaibhav/InstaRide/assets/56718659/acb87ca0-e7de-4aa4-b2d4-d7019819c3ab)
+
+![Screenshot from 2023-05-12 01-58-03](https://github.com/realvaibhav/InstaRide/assets/56718659/a349026d-06c0-46a8-a36e-9285c58ba417)
+
+
