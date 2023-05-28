@@ -86,7 +86,7 @@ Driver received the request
 
 Driver Dashboard
 ![Screenshot from 2023-05-12 01-56-05](https://github.com/realvaibhav/InstaRide/assets/56718659/512768f7-a7db-408b-9e50-baf78d5ae103)
-
+Rider starts the journey with Driver
 ![Screenshot from 2023-05-12 01-57-07](https://github.com/realvaibhav/InstaRide/assets/56718659/923529d8-53ec-49b2-9fe8-88fffcd05faa)
 
 ![Screenshot from 2023-05-12 01-57-18](https://github.com/realvaibhav/InstaRide/assets/56718659/64ba920a-470a-48dd-88b3-f98d6e2ca2b2)
