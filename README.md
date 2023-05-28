@@ -79,7 +79,8 @@ Request a Ride
 Enter the location credentials
 ![Screenshot from 2023-05-11 23-11-35](https://github.com/realvaibhav/InstaRide/assets/56718659/3b5e0063-df70-497a-b6bd-6ff58b7d9eba)
 ![Screenshot from 2023-05-11 23-26-13](https://github.com/realvaibhav/InstaRide/assets/56718659/6b377dcf-8856-4050-9e67-32f0fb24a774)
-Driver recieved the request
+
+Driver received the request
 ![Screenshot from 2023-05-11 23-27-04](https://github.com/realvaibhav/InstaRide/assets/56718659/d0a9adc7-e8d9-475d-90b2-a78260c02819)
 Driver Dashboard
 ![Screenshot from 2023-05-12 01-57-07](https://github.com/realvaibhav/InstaRide/assets/56718659/923529d8-53ec-49b2-9fe8-88fffcd05faa)
