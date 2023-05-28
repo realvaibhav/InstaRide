@@ -79,4 +79,3 @@ docker-compose up
 ![Screenshot from 2023-05-11 23-05-46](https://github.com/realvaibhav/InstaRide/assets/56718659/10a4c450-9003-4313-947c-3d4469f8e21e)
 ![Screenshot from 2023-05-11 23-05-19](https://github.com/realvaibhav/InstaRide/assets/56718659/51455d39-f5e5-40b8-8b6f-4f7b4b09dd49)
 ![Screenshot from 2023-05-11 23-03-59](https://github.com/realvaibhav/InstaRide/assets/56718659/55f16c6b-9e68-4a8a-88f8-d9eaa489e566)
-
