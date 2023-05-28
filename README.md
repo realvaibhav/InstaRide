@@ -64,18 +64,19 @@ docker-compose up
 
 ##UI/ScreenShots
 
+Sign Up form for Rider/Customer
 ![Screenshot from 2023-05-11 23-03-59](https://github.com/realvaibhav/InstaRide/assets/56718659/35d3f3e9-fee9-4a46-b347-3bb8e66e22d8)
-
+Log In for Rider
 ![Screenshot from 2023-05-11 23-05-19](https://github.com/realvaibhav/InstaRide/assets/56718659/db2edf9a-3006-4504-b3fb-cd8d4e620260)
-
+Sign Up form for Driver
 ![Screenshot from 2023-05-11 23-24-15](https://github.com/realvaibhav/InstaRide/assets/56718659/52aecf3a-62f1-4a43-8dcf-90df13050d68)
-
+Log In for Driver
 ![Screenshot from 2023-05-11 23-09-51](https://github.com/realvaibhav/InstaRide/assets/56718659/5a81a8cd-530b-4ad9-b5dd-91eb08a04695)
-
+Rider Dashboard
 ![Screenshot from 2023-05-11 23-10-41](https://github.com/realvaibhav/InstaRide/assets/56718659/d7d668e0-01d3-45f7-aa81-b7277b2b5c48)
-
+Request a Ride
 ![Screenshot from 2023-05-11 23-11-35](https://github.com/realvaibhav/InstaRide/assets/56718659/3b5e0063-df70-497a-b6bd-6ff58b7d9eba)
-
+Enter the location credentials
 ![Screenshot from 2023-05-11 23-26-13](https://github.com/realvaibhav/InstaRide/assets/56718659/02b431c5-3315-4120-b8f7-472e9ba6b50e)
 
 ![Screenshot from 2023-05-11 23-27-04](https://github.com/realvaibhav/InstaRide/assets/56718659/bddabfd2-0380-43b9-8b4d-5bb6725a8f79)
