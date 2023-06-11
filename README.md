@@ -62,7 +62,7 @@ docker-compose up
 | /api/trip/                | GET        | READ        | JSON response with a list of all `Trip` objects.|
 | /api/trip/<uuid:trip_id>/ | GET        | READ        | JSON response with the specified `Trip` object. |
 
-##UI/ScreenShots
+## UI/ScreenShots
 
 Sign Up form for Rider/Customer
 ![Screenshot from 2023-05-11 23-03-59](https://github.com/realvaibhav/InstaRide/assets/56718659/35d3f3e9-fee9-4a46-b347-3bb8e66e22d8)
