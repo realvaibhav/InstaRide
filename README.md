@@ -11,7 +11,7 @@ Many apps rely on real-time, bi-directional communication to give users a great 
 ## Setup
 
 ```bash
-git clone https://github.com/realvaibhav/InstaRide.git insta
+git clone https://github.com/realvaibhav/InstaRide.git
 cd insta
 docker-compose up
 ```
